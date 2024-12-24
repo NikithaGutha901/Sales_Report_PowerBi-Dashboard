@@ -13,7 +13,7 @@ This project demonstrates the creation of an interactive and dynamic sales analy
 - **Problem-Solving**: Resolved DAX issues and ensured accuracy in metrics and calculations.  
 
 ## Demo 
-![Dashboard](https://github.com/NikithaGutha901/Sales_Report_PowerBi-Dashboard/blob/main/Screenshot%202024-12-24%20123347.png)
+![Dashboard](https://github.com/NikithaGutha901/Sales_Report_PowerBi-Dashboard/blob/main/Screenshot%202024-12-24%20165253.png)
 
 ## Tools and Technologies  
 - Power BI  
